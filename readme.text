@@ -1,10 +1,11 @@
 
-1.Lesson 1
+1.Lesson 1 (Simple text)
 -> setContent on main acticity.
 ->Writing composable function that take string input and write view configurations.
 ->Preview composable , To preview the view configured on above composable function.
-> use material theme on this activity.
-2. Lesson 2
+-> use material theme on this activity.
+ Lesson 1 DONE
+2. Lesson 2 (Layout)
 -> Column crossAxis size wich is equivallent match parent layout implemented.
 -> modifier for sapcing added.
 -> Container added to add image on it, size of the contaier is defined to 180 dp.
@@ -12,3 +13,10 @@
 -> Image added from the resource 
 Lesson 2 DONE
 
+Lesson 3 (Material Design)
+-> Shaping corners of resource using Clip function.
+-> Giving Material theme text style
+-> Styling text using styles , textThemeStyle with different attributes provied by material design guidelines.
+- > opacity on the text using material palette
+- > setting the max line feature on the text.
+Lesson 3 Done
