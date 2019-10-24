@@ -3,7 +3,8 @@
 -> setContent on main acticity.
 ->Writing composable function that take string input and write view configurations.
 ->Preview composable , To preview the view configured on above composable function.
-> use material theme on this activity.
+-> use material theme on this activity.
+ Lesson 1 DONE
 2. Lesson 2 (Layout)
 -> Column crossAxis size wich is equivallent match parent layout implemented.
 -> modifier for sapcing added.
@@ -18,4 +19,4 @@ Lesson 3 (Material Design)
 -> Styling text using styles , textThemeStyle with different attributes provied by material design guidelines.
 - > opacity on the text using material palette
 - > setting the max line feature on the text.
-
+Lesson 3 Done
