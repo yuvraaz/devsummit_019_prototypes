@@ -5,7 +5,7 @@
 5    android:versionName="1.0" >
 6
 7    <uses-sdk
-8        android:minSdkVersion="29"
+8        android:minSdkVersion="21"
 8-->/Users/mr.poudel/devsummit019/composdemo/app/src/main/AndroidManifest.xml
 9        android:targetSdkVersion="29" />
 9-->/Users/mr.poudel/devsummit019/composdemo/app/src/main/AndroidManifest.xml
@@ -17,34 +17,33 @@
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 13-->[androidx.core:core:1.1.0] /Users/mr.poudel/.gradle/caches/transforms-2/files-2.1/8ecbcab7ffa2a7d138c7debed0da993e/core-1.1.0/AndroidManifest.xml:24:18-86
 14        android:debuggable="true"
-15        android:extractNativeLibs="false"
-16        android:icon="@mipmap/ic_launcher"
-16-->/Users/mr.poudel/devsummit019/composdemo/app/src/main/AndroidManifest.xml:7:9-43
-17        android:label="@string/app_name"
-17-->/Users/mr.poudel/devsummit019/composdemo/app/src/main/AndroidManifest.xml:8:9-41
-18        android:roundIcon="@mipmap/ic_launcher_round"
-18-->/Users/mr.poudel/devsummit019/composdemo/app/src/main/AndroidManifest.xml:9:9-54
-19        android:supportsRtl="true"
-19-->/Users/mr.poudel/devsummit019/composdemo/app/src/main/AndroidManifest.xml:10:9-35
-20        android:theme="@style/AppTheme" >
-20-->/Users/mr.poudel/devsummit019/composdemo/app/src/main/AndroidManifest.xml:11:9-40
-21        <activity
-21-->/Users/mr.poudel/devsummit019/composdemo/app/src/main/AndroidManifest.xml:12:9-20:20
-22            android:name="fr.allodel.devsubmit019.MainActivity"
-22-->/Users/mr.poudel/devsummit019/composdemo/app/src/main/AndroidManifest.xml:13:13-41
-23            android:label="@string/app_name" >
-23-->/Users/mr.poudel/devsummit019/composdemo/app/src/main/AndroidManifest.xml:14:13-45
-24            <intent-filter>
-24-->/Users/mr.poudel/devsummit019/composdemo/app/src/main/AndroidManifest.xml:15:13-19:29
-25                <action android:name="android.intent.action.MAIN" />
-25-->/Users/mr.poudel/devsummit019/composdemo/app/src/main/AndroidManifest.xml:16:17-69
-25-->/Users/mr.poudel/devsummit019/composdemo/app/src/main/AndroidManifest.xml:16:25-66
-26
-27                <category android:name="android.intent.category.LAUNCHER" />
-27-->/Users/mr.poudel/devsummit019/composdemo/app/src/main/AndroidManifest.xml:18:17-77
-27-->/Users/mr.poudel/devsummit019/composdemo/app/src/main/AndroidManifest.xml:18:27-74
-28            </intent-filter>
-29        </activity>
-30    </application>
-31
-32</manifest>
+15        android:icon="@mipmap/ic_launcher"
+15-->/Users/mr.poudel/devsummit019/composdemo/app/src/main/AndroidManifest.xml:7:9-43
+16        android:label="@string/app_name"
+16-->/Users/mr.poudel/devsummit019/composdemo/app/src/main/AndroidManifest.xml:8:9-41
+17        android:roundIcon="@mipmap/ic_launcher_round"
+17-->/Users/mr.poudel/devsummit019/composdemo/app/src/main/AndroidManifest.xml:9:9-54
+18        android:supportsRtl="true"
+18-->/Users/mr.poudel/devsummit019/composdemo/app/src/main/AndroidManifest.xml:10:9-35
+19        android:theme="@style/AppTheme" >
+19-->/Users/mr.poudel/devsummit019/composdemo/app/src/main/AndroidManifest.xml:11:9-40
+20        <activity
+20-->/Users/mr.poudel/devsummit019/composdemo/app/src/main/AndroidManifest.xml:12:9-20:20
+21            android:name="fr.allodel.devsubmit019.MainActivity"
+21-->/Users/mr.poudel/devsummit019/composdemo/app/src/main/AndroidManifest.xml:13:13-41
+22            android:label="@string/app_name" >
+22-->/Users/mr.poudel/devsummit019/composdemo/app/src/main/AndroidManifest.xml:14:13-45
+23            <intent-filter>
+23-->/Users/mr.poudel/devsummit019/composdemo/app/src/main/AndroidManifest.xml:15:13-19:29
+24                <action android:name="android.intent.action.MAIN" />
+24-->/Users/mr.poudel/devsummit019/composdemo/app/src/main/AndroidManifest.xml:16:17-69
+24-->/Users/mr.poudel/devsummit019/composdemo/app/src/main/AndroidManifest.xml:16:25-66
+25
+26                <category android:name="android.intent.category.LAUNCHER" />
+26-->/Users/mr.poudel/devsummit019/composdemo/app/src/main/AndroidManifest.xml:18:17-77
+26-->/Users/mr.poudel/devsummit019/composdemo/app/src/main/AndroidManifest.xml:18:27-74
+27            </intent-filter>
+28        </activity>
+29    </application>
+30
+31</manifest>
