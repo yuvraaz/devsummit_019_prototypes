@@ -1,0 +1,2 @@
+rootProject.name='Devsummit019Projects'
+include ':app'
