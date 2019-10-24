@@ -36,6 +36,10 @@
         "source": "/Users/mr.poudel/devsummit019/composdemo/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     },
     {
+        "merged": "/Users/mr.poudel/devsummit019/composdemo/app/build/intermediates/res/merged/debug/drawable_header.png.flat",
+        "source": "/Users/mr.poudel/devsummit019/composdemo/app/src/main/res/drawable/header.png"
+    },
+    {
         "merged": "/Users/mr.poudel/devsummit019/composdemo/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
         "source": "/Users/mr.poudel/devsummit019/composdemo/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
     },
